@@ -6,7 +6,7 @@ Nadia Aghili, Bizley Lab, UCL Ear Institute, 2026
 
 ## Code and data
 
-The code was run in MATLAB R2024b with the Statistics and Machine Learning Toolbox. The repository also includes [npy-matlab](https://github.com/kwikteam/npy-matlab) for reading the spike-sorting files.
+The code was run in MATLAB R2024b. The repository also includes [npy-matlab](https://github.com/kwikteam/npy-matlab) for reading the spike-sorting files.
 
 ```text
 Code_share/
@@ -76,4 +76,4 @@ After each run, the analysis menu is displayed again. To analyse a different rec
 
 The analyses do not need to be run in order. Options 1 and 2 are provided to reproduce the unit identification and tuning analysis. The subsequent analyses use the precomputed values in `Example_Summary_Table.xlsx`, which is not updated when the scripts are run.
 
-Analysis outputs are saved in the `phy` folder of the selected recording group, and the corresponding file path is displayed in the Command Window. Re-running an analysis overwrites its previous output. Permutation p-values may vary between runs.
+Analysis outputs are saved in the `phy` folder of the selected recording group, and the corresponding file path is displayed in the Command Window. Re-running an analysis overwrites its previous output. 

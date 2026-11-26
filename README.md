@@ -4,6 +4,12 @@ MATLAB code for analysing spatial reference frames in the ferret auditory cortex
 
 Nadia Aghili, Bizley Lab, UCL Ear Institute, 2026
 
+## Example datasets
+
+[Download ExampleData.zip](https://github.com/BizleyLabTeam/Head_Centred_Sound_Localisation/releases/download/v1.0.0/ExampleData.zip)
+
+Extract the ZIP file into the repository directory, alongside `Code_share` and `Functions`, before running `RunAnalysis.m`.
+
 ## Code and data
 
 The code was run in MATLAB R2024b. The repository also includes [npy-matlab](https://github.com/kwikteam/npy-matlab) for reading the spike-sorting files.
